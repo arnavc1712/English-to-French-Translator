@@ -4,3 +4,6 @@ This notebook shows how Neural Machine Translation can be done in Keras. I have 
 
 An inference model has also been built to showcase the translator in practice.
 
+### Dataset
+https://www.kaggle.com/jannesklaas/frenchenglish-bilingual-pairs
+
